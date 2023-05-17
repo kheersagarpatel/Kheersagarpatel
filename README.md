@@ -44,13 +44,13 @@ Take a look at some of my noteworthy projects on GitHub:
 - [Knowivate Search](https://search.knowivate.com/): Keep searching.
 - [Knowivate Paste](https://paste.knowivate.com/): Keep pastring.
 - [Knowivate Developers](https://developers.knowivate.com/): Keep developing.
-- [Knowivate News](https://news.knowivate.com/): stay updated.
+- [Knowivate News](https://news.knowivate.com/): Stay updated.
 
 ## 📝 Latest blog posts
 
 I also write articles on topics related to search engines, programming, and technology. Here are some of my recent blog posts:
 
-- [Blog post 1](https://yourblog.com/post1): Brief description of the post.
+- [Read my all blogs](https://developers.knowivate.com/@kheersagar): all blog post.
 - [Blog post 2](https://yourblog.com/post2): Brief description of the post.
 - [Blog post 3](https://yourblog.com/post3): Brief description of the post.
 
@@ -60,8 +60,8 @@ Feel free to explore my blog for more articles!
 
 Let's connect and collaborate! You can find me on:
 
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Dev.to: [@yourusername](https://dev.to/yourusername)
-- Medium: [@yourusername](https://medium.com/@yourusername)
+- Twitter: [@khrsgr](https://twitter.com/khrsgr)
+- Developers.knowivate.com: [@kheersagar](https://developers.knowivate.com/@kheersagar)
+- Medium: [@yourusername](https://medium.com/@kheersagar)
 
 Looking forward to connecting with you! 😊
