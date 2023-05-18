@@ -50,9 +50,9 @@ Take a look at some of my noteworthy projects on GitHub:
 
 I also write articles on topics related to search engines, programming, and technology. Here are some of my recent blog posts:
 
-- [Read my all blogs](https://developers.knowivate.com/@kheersagar): all blog post.
-- [Blog post 2](https://yourblog.com/post2): Brief description of the post.
-- [Blog post 3](https://yourblog.com/post3): Brief description of the post.
+- [Working with Python and Databases](http://localhost:3000/@kheersagar/working-with-python-and-databases): Python is a versatile language used for developing applications in various domains..
+- [Building Chatbots with Python](https://developers.knowivate.com/@kheersagar/building-chatbots-with-python): Building chatbots with Python involves creating software programs that can engage in natural language processing.
+- [Building RESTful APIs with Python Flask](http://localhost:3000/@kheersagar/building-restful-apis-with-python-flask): This comprehensive guide explores the process of building RESTful APIs using Python Flask, a light weight framework.
 
 Feel free to explore my blog for more articles!
 
@@ -62,6 +62,6 @@ Let's connect and collaborate! You can find me on:
 
 - Twitter: [@khrsgr](https://twitter.com/khrsgr)
 - Developers.knowivate.com: [@kheersagar](https://developers.knowivate.com/@kheersagar)
-- Medium: [@yourusername](https://medium.com/@kheersagar)
+- Facebook: [@KnowivateOfficial](https://www.facebook.com/KnowivateOfficial/)
 
 Looking forward to connecting with you! 😊
